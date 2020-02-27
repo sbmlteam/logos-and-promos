@@ -2,10 +2,10 @@
   "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
   "@type": "SoftwareSourceCode",
   "description": "SBML logo artwork and terms of use",
-  "name": "logos",
-  "codeRepository": "https://github.com/sbmlteam/logos",
-  "issueTracker": "https://github.com/sbmlteam/logos/issues",
-  "license": "https://github.com/sbmlteam/logos/blob/master/LICENSE",
+  "name": "logos-and-promos",
+  "codeRepository": "https://github.com/sbmlteam/logos-and-promos",
+  "issueTracker": "https://github.com/sbmlteam/logos-and-promos/issues",
+  "license": "https://github.com/sbmlteam/logos-and-promos/blob/master/LICENSE",
   "version": "0.0.0",
   "author": [
     {
